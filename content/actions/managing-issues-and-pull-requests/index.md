@@ -1,3 +1,4 @@
+![Screenshot_2024-02-25-10-34-12-85_0ebbdd9672bb0a4ccf59d66db218d2c0](https://github.com/github/docs/assets/161183143/37e34a1f-5fca-493d-9ad6-0f590871884e)
 ---
 title: Managing issues and pull requests
 shortTitle: Manage issues and pull requests
